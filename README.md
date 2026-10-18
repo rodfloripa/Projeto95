@@ -1,6 +1,6 @@
 ---
 
-<p align="justify"><h1>Relatório Técnico: Physics-Informed Neural Network (PINN) para Previsão de Demanda e Controle de Estoque no Varejo</h1></p>
+<p align="justify"><h1>Projeto95 : Physics-Informed Neural Network (PINN) para Previsão de Demanda e Controle de Estoque no Varejo</h1></p>
 
 <p align="justify">Este documento consolida a implementação e os resultados de uma <b>Physics-Informed Neural Network (PINN)</b> desenvolvida para a previsão conjunta de demanda de canal (<b>Sell-In</b> e <b>Sell-Out</b>) e otimização da dinâmica de inventário no varejo. Ao contrário de modelos puramente estatísticos ou de aprendizado profundo tradicionais, esta abordagem integra diretamente as leis de conservação de massa (equação de balanço de estoque) como restrições físicas no espaço de perda da rede neural, assegurando previsões coerentes com a realidade operacional.</p>
 
